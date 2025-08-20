@@ -9,3 +9,19 @@ __pycache__/
 venv/
 env/
 .venv/
+
+# Logs i temp fajlovi
+*.log
+*.tmp
+
+# Docker-related
+*.env
+
+# Sistemski fajlovi
+.DS_Store
+Thumbs.db
+
+# IDE / editor fajlovi
+.vscode/
+.idea/
+*.iml
