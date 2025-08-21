@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+.venv/
+
+# Git fajlovi
+.git
+.gitignore
+
+# Docker fajlovi
+Dockerfile
+docker-compose.yml
+docker-compose.override.yml
+
+# IDE fajlovi
+.vscode/
+.idea/
+*.iml
+
+# Logs i temp fajlovi
+*.log
+*.tmp
+
+# Sistemski fajlovi
+.DS_Store
+Thumbs.db

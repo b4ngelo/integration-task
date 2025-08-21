@@ -1,9 +1,6 @@
-
-
 # Python
 __pycache__/
 *.py[cod]
-
 
 # Virtual environment
 venv/
@@ -14,14 +11,15 @@ env/
 *.log
 *.tmp
 
-# Docker-related
+# Docker
 *.env
+docker-compose.override.yml
 
 # Sistemski fajlovi
 .DS_Store
 Thumbs.db
 
-# IDE / editor fajlovi
+# IDE fajlovi
 .vscode/
 .idea/
 *.iml
